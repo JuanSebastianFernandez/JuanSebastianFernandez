@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Juan Sebastián Fernández 👋</h1>
+<h1 align="center">¡Hola! Soy Juan Sebastian Fernandez 👋</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZrOWNpMWZpZTR1NHBrcW1lOGI1dWlsdGwwYW5yYTNmYW5qMXNuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300">
 </p>
